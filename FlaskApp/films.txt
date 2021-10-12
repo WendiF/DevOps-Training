@@ -1,0 +1,7 @@
+Flubber,3
+Jumanji,5
+Aladdin,4
+Free Willy,3
+Rush,5
+Sing,2
+Sing,2
