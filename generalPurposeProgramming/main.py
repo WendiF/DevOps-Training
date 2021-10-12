@@ -15,6 +15,8 @@ def basicCalculator(request):
         return parameterA / parameterB
     elif (operator == "%"):
         return parameterA % parameterB
+    elif (operator == "^"):
+        return parameterA ** parameterB
 
 def parseLine(line):
     instruction = content[line - 1]
